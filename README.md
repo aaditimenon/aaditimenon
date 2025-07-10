@@ -1,8 +1,6 @@
 # 💫 About Me:
 🌱 Currently learning Data Science
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aaditimenon&label=Profile%20views&color=0e75b6&style=flat" alt="aaditimenon" /> </p>
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saaditimenon@gmail.com) 
 
@@ -19,4 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aaditimenon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aaditimenon&label=Profile%20views&color=thistle&style=flat" alt="aaditimenon" /> </p>
