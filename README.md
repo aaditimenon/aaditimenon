@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm May</h1>
+<h1 align="center">Hello World! I'm Aaditi</h1>
 <h3 align="center">I'm a curious coder!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maysaarin&label=Profile%20views&color=0e75b6&style=flat" alt="maysaarin" /> </p>
