@@ -13,6 +13,7 @@ Currently exploring Data Science!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditimenon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aaditimenon&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+## Hacktoberfest Badges
 [![An image of @aaditimenon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaditimenon)](https://holopin.io/@aaditimenon)
 
 ---
