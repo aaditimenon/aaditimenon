@@ -13,9 +13,6 @@ Currently exploring the world of Data Science and coding! I love building things
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aaditimenon&hide_border=true&background=000000&ring=FF007F&fire=00FFD1&currStreakLabel=00FFD1&sideNums=FFFFFF&currStreakNum=FF007F&dates=444444&sideLabels=00FFD1" height="180em"/>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aaditimenon&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ## Hacktoberfest Badges
 [![An image of @aaditimenon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaditimenon)](https://holopin.io/@aaditimenon)
 ---
