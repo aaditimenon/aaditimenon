@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently exploring the world of Data Science and coding! I love building things and am constantly learning new technologies to better implement machine learning principles.
+Exploring Cyber Security!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditimenon) 
